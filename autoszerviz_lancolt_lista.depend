@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1669977089 source:c:\users\dell\desktop\university\prog alap 1\autoszerviz_lancolt_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"szerviz.h"
+	"javitas.h"
+	"debugmalloc.h"
+
+1670076401 c:\users\dell\desktop\university\prog alap 1\autoszerviz_lancolt_lista\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1670418660 source:c:\users\dell\desktop\university\prog alap 1\autoszerviz_lancolt_lista\szerviz.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"debugmalloc.h"
+
+1670078504 c:\users\dell\desktop\university\prog alap 1\autoszerviz_lancolt_lista\szerviz.h
+
+1670418598 source:c:\users\dell\desktop\university\prog alap 1\autoszerviz_lancolt_lista\javitas.c
+	<stdio.h>
+	<stdbool.h>
+	"szerviz.h"
+	"debugmalloc.h"
+
+1669551065 c:\users\dell\desktop\university\prog alap 1\autoszerviz_lancolt_lista\javitas.h
+
